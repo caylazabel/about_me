@@ -9,4 +9,3 @@ if (response1 === 'yes' || response1 === 'y') {
 } else {
   alert('Try to answer with a yes or no answer next time');
 }
-//
