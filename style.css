@@ -1,4 +1,12 @@
 * {
-  outline: 1px dotted orange;
-  color: pink;
+  color: maroon;
+  font-family: Impact;
+}
+
+#aboutCayla {
+  outline: 5px solid grey;
+}
+
+h2 {
+  color: black;
 }
