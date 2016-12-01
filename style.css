@@ -1,12 +1,21 @@
 * {
-  color: maroon;
-  font-family: Impact;
+  color: white;
+  font-family: sans-serif;
+  background-color:black;
+
 }
 
 #aboutCayla {
-  outline: 5px solid grey;
+  outline: 5px solid maroon;
+  text-align: center;
+  font-size: 70px;
 }
 
 h2 {
-  color: black;
+  color: grey;
+  outline: 2px solid maroon;
+}
+
+p {
+  font-family:serif;
 }
