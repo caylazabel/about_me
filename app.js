@@ -1,4 +1,4 @@
-'use sctrict';
+'use strict';
 var userName = prompt('What is your name?');
 
 var numOfCorrectAnswers = 0;
