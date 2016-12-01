@@ -106,7 +106,8 @@ while (attempts < 6){
     break;
   } else {
     alert('Guess again, she has never been there!');
-    attempts++;
+    // attempts++;
+    attempts += 1;
   }
 
 }
